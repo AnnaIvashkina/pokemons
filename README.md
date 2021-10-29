@@ -1,2 +1,2 @@
 # pokemons
-All images of pokemins
+Images of all pokemons
